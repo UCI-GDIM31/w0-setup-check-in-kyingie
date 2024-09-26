@@ -6,6 +6,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+    My name is Karena, and my pronouns are she/her. I am a third year at UCI, who is hoping to double major in both GDIM and Art. I really love MOBAs like League of Legends, and FPS/third-person shooter games like Valorant or Project: Deadlock. I'm taking this class as a pre-req to double into GDIM, and I'm also very interested in coding a video game! The only experiences I've had with coding relates to statistics, using R Studio. I am in a game project at this school, but I mainly focused on art! I hope to be able to make indie horror games in the future!
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
