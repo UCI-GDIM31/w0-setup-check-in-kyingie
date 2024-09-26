@@ -9,15 +9,13 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     My name is Karena, and my pronouns are she/her. I am a third year at UCI, who is hoping to double major in both GDIM and Art. I really love MOBAs like League of Legends, and FPS/third-person shooter games like Valorant or Project: Deadlock. I'm taking this class as a pre-req to double into GDIM, and I'm also very interested in coding a video game! The only experiences I've had with coding relates to statistics, using R Studio. I am in a game project at this school, but I mainly focused on art! I hope to be able to make indie horror games in the future!
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
-
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+    I am an Art major! I'm also hoping to double into GDIM!
 
 3. What are you hoping to get out of this class?
+    From this class, I hope to get used to C#, Unity, and Github, for my future plans of coding my own video game!
+ 
 4. What, if anything, are you nervous about for this class?
+    I'm nervous that my code doesn't make sense, or doesn't work, but I hope my classmates, TAs, and Professor Reid can help with that!
 
 ## Prior Experience
 
@@ -26,10 +24,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+    R language in R Studio for Statistics.
 
 2. Game development (any engine)
+    N/A
 
 3. Unity
+    N/A, I used Github for R language.
 
 ### Programming & Game Development Concepts
 
@@ -41,14 +42,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+    A document describing the layout of the video game?
 
 2. Scope management
+    I think it had to do with time management and how to finish tasks on time?
 
 3. Iteration
+    Repeat, feedback, and repeat.
 
 4. Object-Oriented programming
+    N/A
 
 5. Model-View-Controller architecture
+    N/A
 
 ## Complete!
 
